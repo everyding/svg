@@ -2,10 +2,10 @@
 
 ## svg打开方式
 
-> 1.浏览器直接打开
-> 2.插入到HTML代码中
-> 3.可以放在img标签
-> 4.可以用于background-image: url(demo.svg)
+> * 浏览器直接打开
+> * 插入到HTML代码中
+> * 可以放在img标签
+> * 可以用于background-image: url(demo.svg)
 
 ## 基本图形和属性
 
@@ -19,7 +19,7 @@ fill、stroke、stroke-width、transform
 
 ## 矩形（rect）
 
-![img/rect.png](rect)
+![rect](img/rect.png)
 
 
 
